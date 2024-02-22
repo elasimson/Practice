@@ -1,0 +1,2 @@
+const arr =["ela", "simson"]
+sonsole.log(arr);
