@@ -1,2 +1,2 @@
 const arr =["ela", "simson"]
-sonsole.log(arr);
+console.log(arr);
